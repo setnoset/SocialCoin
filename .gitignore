@@ -1,3 +1,12 @@
+# backend
+## django
 .venv
 __pycache__/
 db.sqlite3
+
+# frontend
+## angular
+#### dependencies
+/node_modules
+### IDE - VSCode
+.vscode
