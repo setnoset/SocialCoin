@@ -10,3 +10,6 @@ db.sqlite3
 /node_modules
 ### IDE - VSCode
 .vscode
+
+### Temp
+db.json
